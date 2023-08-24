@@ -4,6 +4,6 @@ Various sorting algorithms visualised in SFML
 ![](https://github.com/ewerae/SFML-Sorting-Algorithm-Visualiser/blob/main/sorting.gif)
 
 
-Currently finished bubble sort as shown. Minor bug where although the sorting is completed and correct, red strips appear.
+Currently bubble, selection and insertion sort have been implemented. Theres a few visualisation errors which will need to be redone. However, the sorting itself is sound.
 
-Will do the rest displayed on the left hand side.
+
